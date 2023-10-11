@@ -2,13 +2,19 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-
+import { User } from 'interfaces/user';
 function App() {
   const [count, setCount] = useState(0)
+
+  const user: User = {
+    name: 'John Doe',
+    email: 'johndoe@example.com',
+  };
 
   return (
     <>
       <div>
+        <p>{user.name}</p>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
