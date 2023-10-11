@@ -15,7 +15,7 @@ importers:
         version: link:../i18n
       interfaces:
         specifier: workspace:*
-        version: link:../inferfaces
+        version: link:../interfaces
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -56,7 +56,7 @@ importers:
 
   apps/i18n: {}
 
-  apps/inferfaces: {}
+  apps/interfaces: {}
 
   apps/server:
     dependencies:
