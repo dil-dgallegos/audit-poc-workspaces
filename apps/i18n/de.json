@@ -1,0 +1,11 @@
+{
+    "greeting": "Hallo!",
+    "farewell": "Auf Wiedersehen!",
+    "welcome": "Willkommen in unserer App!",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "submit": "Absenden",
+    "cancel": "Abbrechen"
+}

@@ -1,0 +1,11 @@
+{
+    "greeting": "Bonjour !",
+    "farewell": "Au revoir !",
+    "welcome": "Bienvenue sur notre application !",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Envoyer",
+    "cancel": "Annuler"
+}

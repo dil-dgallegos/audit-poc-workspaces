@@ -22,8 +22,7 @@
     "fastify-plugin": "^4.0.0",
     "@fastify/autoload": "^5.0.0",
     "@fastify/sensible": "^5.0.0",
-    "fastify-cli": "^5.8.0",
-    "utils": "workspace:*"
+    "fastify-cli": "^5.8.0"
   },
   "devDependencies": {
     "@types/node": "^20.4.4",
